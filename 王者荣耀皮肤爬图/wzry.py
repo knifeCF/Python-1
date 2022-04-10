@@ -1,12 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 """
 抓取王者荣耀皮肤
 author: gxcuizy
 date: 2018-11-06
 """
-
 import requests
 from bs4 import BeautifulSoup
 from urllib import parse
