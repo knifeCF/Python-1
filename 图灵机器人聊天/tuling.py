@@ -1,9 +1,7 @@
-#! /usr/bin/python
 # _*_ encode:utf-8_*_
 
 """
 图林机器人聊天
-author: gxcuizy
 time: 2018-09-19
 """
 
